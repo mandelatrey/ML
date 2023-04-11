@@ -1,2 +1,2 @@
 # ML
-Machine Learning; Code written whilst i learnt pytorch
+Machine Learning; Different explorations in Machine Learning projects in Notebook format. Titles are quite self explanatory
